@@ -17,8 +17,9 @@ Lex and Yacc can be installed on Linux, MacOS, and Windows. Here, we are impleme
 
 • Install DevC++ at C:\Dev-Cpp
 ### Set Up Environment Variables
-![image](https://github.com/user-attachments/assets/1fb49639-a830-4bdf-8610-21ffd9f0cf7e)
-![image](https://github.com/user-attachments/assets/308b373d-e246-4be0-87f0-feeff35ec61d)
+![image](https://github.com/user-attachments/assets/55039f9b-d136-4231-91af-7f5a8ec8d31c)
+![image](https://github.com/user-attachments/assets/b1bbea12-40aa-4988-8b7c-ff128ea76fc6)
+
 • System -> Advanced System Settings -> Environment Variables ->Path
 
 • Add C:\GnuWin32\bin;
@@ -26,4 +27,6 @@ Lex and Yacc can be installed on Linux, MacOS, and Windows. Here, we are impleme
 C:\Dev-Cpp\MinGW64\bin to the path
 ## Compiling
 ### Commands to Compile and Run the LEX and YACC program
-![image](https://github.com/user-attachments/assets/d3f7ea82-00b0-4eb3-bea2-b35e122521ee)
+![image](https://github.com/user-attachments/assets/3122c3ab-fc83-4270-a082-61c2bf8191b0)
+
+## Matrix calculations can follow the format in sample_input.txt
